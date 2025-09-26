@@ -121,4 +121,39 @@
 // }
 
 
+// print star to x
+
+// for (let r=1; r<=5; r++) {
+//     for (let c=1; c<=5; c++) {
+//         if (r==c || r+c==6) {
+//             document.write("*");
+//         }
+//         else {
+//             document.write("&nbsp;&nbsp;");
+//         }
+//     }
+//     document.write("<br>");
+// }
+
+
+// data types  -----------------------
+
+// primitive data types         
+// 1. number
+// 2. string
+// 3. boolean
+// 4. undefined
+// 5. null
+
+// non -primitive data types
+// 1. object    
+// 2. array
+// 3. function
+
+
+
+
+
+
+
 
